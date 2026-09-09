@@ -1,0 +1,11 @@
+# Python虚拟环境
+venv/
+# 缓存文件
+__pycache__/
+*.pyc
+# 向量库本地数据
+chroma_db/
+# 审计数据库
+audit.db
+# 密钥环境文件
+.env
